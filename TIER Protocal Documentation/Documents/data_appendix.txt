@@ -1,0 +1,8 @@
+DODATEK DO DANYCH:
+
+Dane oryginalne:
+- dem_score.xlsx zawiera oceny poziou dekomokracji w 96 różnych krajach od 1952 do 1992 roku. W tym zbiorze danych wartość -10 oznacza kraje autokratyczne, natiomiast wartość 10 oznacza kraje, w których ustrój jest bardzo demokratyczny. 
+
+Dane przetworzone: 
+-dem_score_final.xlsx zawiera infromacje takie jak plik oryginalny jednak w innej organizacji. Każdy wiersz oznacza inną wartośc poziomu demokracji w danym roku dla danego państwa. 
+
