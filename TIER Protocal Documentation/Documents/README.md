@@ -29,7 +29,7 @@ Pliki zorganizowane zostały w następujący sposób:
 
 
 ---------------------------------------------------------------------
-## Przeprocesowanie danych w pliku WorkWithData.ipynb z folderu “CommandFiles”.
+## 2. Przeprocesowanie danych w pliku WorkWithData.ipynb z folderu “CommandFiles”.
 
 - Wczytanie danych oryginalnych (znajdujących się w folderze OriginalData\dem_score.xlsx) do formatu pandas
 - Wykorzystanie funkcji melt w celu uporządkowania danych opisujących lata i kraje. (id_vars =columns)
