@@ -1,1 +1,6 @@
-Dane oryginalne znajduj¹ siê: OriginalData\dem_score.xlsx
+METADATA GUIDE:
+
+
+Dane oryginalne znajduj¹ siê w pliku: dem_score.xlsx zlokalizowanym w folderze OriginalData.
+
+dem_score.xlsx - dane oryginalne pochodz¹ z https://github.com/KAIR-ISZ/public_lectures/blob/master/Analiza%20i%20Bazy%20Danych/Lab%201%20-%20tidy%20data/Datasets/dem_score.xlsx Zapisane s¹ w formacie programu MS Excel. 
